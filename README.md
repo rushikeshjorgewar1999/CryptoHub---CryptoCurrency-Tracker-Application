@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+CryptoHub - CryptoCurrency Tracker Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cryptocurrency Tracker App
 
-## Available Scripts
+![App Screenshot](screenshot.png)
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+The Cryptocurrency Tracker App is a web application built using React JS, Material UI, and Chart JS. It provides real-time information and tracking for various cryptocurrencies. This app uses the Context API to manage the state of the application and relies on the Coin Gecko API for retrieving cryptocurrency data.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Real-time cryptocurrency data tracking.
+- Interactive and visually appealing charts using Chart JS.
+- Responsive design for seamless use on various devices.
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React JS: A popular JavaScript library for building user interfaces.
+- Material UI: A UI framework for creating stylish and responsive web applications.
+- Chart JS: A JavaScript library for creating interactive charts.
+- Context API: A built-in state management solution for React.
+- Coin Gecko API: A reliable cryptocurrency data API.
 
-### `npm run build`
+## Usage
+Upon launching the app, you'll be presented with real-time cryptocurrency data.
+Explore different cryptocurrencies and their market data.
+Interact with interactive charts to visualize trends.
+Customize your experience using the app's responsive design.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them with descriptive commit messages.
+Push your changes to your forked repository.
+Create a pull request to merge your changes into the main repository.
+License
+This project is licensed under the MIT License.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Acknowledgments
+The project makes use of the Coin Gecko API for cryptocurrency data.
+Special thanks to the React, Material UI, and Chart JS communities for providing excellent tools and resources for building web applications.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made By Rushikesh Jorgewar with ❤️
